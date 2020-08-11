@@ -1,2 +1,2 @@
 # Domain-testing
-Here is my checklist for validating a comment field on YouTube, prepared using the Equivalence Partitioning and Boundary Value Analysis techniques.
+Here is my checklist for validating a text field, prepared using the Equivalence Partitioning and Boundary Value Analysis techniques.
